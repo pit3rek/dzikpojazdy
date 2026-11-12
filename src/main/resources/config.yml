@@ -1,0 +1,8 @@
+# DzikPojazdy - Paper 1.21.4
+tnt-destroys-blocks: true
+
+# Czas odnowienia wiertla w milisekundach
+drill-cooldown-ms:
+  zwykly: 2400
+  epicki: 1500
+  legendarny: 900

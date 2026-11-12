@@ -1,0 +1,10 @@
+name: DzikPojazdy
+version: 1.0.0
+main: pl.dzik.pojazdy.DzikPojazdy
+api-version: '1.21'
+commands:
+  vehicle:
+    description: Przywolaj pojazd
+    aliases: [pojazd, dzikpojazdy]
+    permission: dzikpojazdy.admin
+    usage: /vehicle <traktor|wiertlo|samolot|helikopter|statek> <zwykly|epicki|legendarny>
